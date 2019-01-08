@@ -5,4 +5,4 @@ This data corresponds to credit card default cases related to different customer
 
 The goal of this project is to train the model to get the accuracy for the Credit Card default cases. The target variable is 'Default'(No/Yes) and input variables are  Balance, Income and 'Student'.
 
-Applied Logistic Regression model and found out that at a threshold of 0.6, the model accuracy is giving Best results.
+Applied Logistic Regression Classifier and found out that at a threshold of 0.6, the model accuracy is giving Best results.
